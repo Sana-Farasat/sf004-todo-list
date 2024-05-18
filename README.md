@@ -1,5 +1,5 @@
 # Todo List!
-## This is cli based todo app which is made using functions in typescripts 
+## This is cli based todo app which is made using functions in typescript
 which has great features including:
 * Add Task
 * Update Task
